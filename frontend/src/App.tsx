@@ -7,6 +7,7 @@ function App() {
     <div>
       <h1>B6524951 นายสิรภัทร เพ็งจันทร์</h1>
       <h1>B6505295 นายปรเมษฐ์ วิไธสง</h1>
+      <h1>test auto deploy to git</h1>
     </div>
   )
 }
